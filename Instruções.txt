@@ -1,3 +1,0 @@
-Para jogar use o link a seguir: https://lchg.itch.io/blackout0
-A pasta anexada contém a build do construct
-A pasta zipada contém a build para Scirra Arcade que foi postada no link do itch.io

@@ -1,0 +1,2 @@
+O repositorio contém uma build para o Construct 2 e também uma build feita para Scirra Arcade.
+A build de Scirra Arcade foi postada no itch.io, e pode ser acessada sem precisar de download através desse link: https://lchg.itch.io/blackout0
